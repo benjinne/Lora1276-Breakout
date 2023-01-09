@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name Nicerf)(type Legacy)(uri ${KIPRJMOD}/Nicerf.lib)(options "")(descr ""))
+  (lib (name "Nicerf")(type "Legacy")(uri "${KIPRJMOD}/Nicerf.lib")(options "")(descr ""))
+  (lib (name "lora1276Breakout-rescue")(type "Legacy")(uri "${KIPRJMOD}/lora1276Breakout-rescue.lib")(options "")(descr ""))
 )
